@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "buildbattlemod.buildbattle.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinClientPlayNetworkHandler"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
